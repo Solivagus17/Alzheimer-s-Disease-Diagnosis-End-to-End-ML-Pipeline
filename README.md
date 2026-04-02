@@ -101,16 +101,15 @@ Understanding before modeling. Class distributions, demographic breakdowns, miss
 
 Seven classifiers evaluated head-to-head under **Stratified 5-Fold Cross-Validation**:
 
-| Model | CV Accuracy |
-|-------|------------|
-| 🏆 Random Forest | **79.84%** |
-| Gradient Boosting | — |
-| Extra Trees | — |
-| SVM | — |
-| Logistic Regression | — |
-| K-Nearest Neighbors | — |
-| Decision Tree | — |
-
+| Model | CV Accuracy | Test Accuracy | F1 Score |
+|-------|------------|---------------|----------|
+| 🏆 Random Forest | 79.62% | 76.44% | 0.7419 |
+| Gradient Boosting | 78.26% | 75.29% | 0.7409 |
+| Extra Trees | 77.18% | 75.57% | 0.7313 |
+| Logistic Regression | 75.66% | 72.70% | 0.7166 |
+| Decision Tree | 70.91% | 70.98% | 0.7164 |
+| Support Vector Machine | 72.50% | 70.69% | 0.6851 |
+| K-Nearest Neighbours | 60.69% | 61.78% | 0.6107 |
 ![Model Comparison](model_comparison.png)
 
 ---
