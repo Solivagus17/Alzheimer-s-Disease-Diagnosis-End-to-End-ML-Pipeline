@@ -179,11 +179,8 @@ scikit-learn · jupyter
 
 git clone https://github.com/Solivagus17/Alzheimer-s-Disease-Diagnosis-End-to-End-ML-Pipeline.git
 cd Alzheimer-s-Disease-Diagnosis-End-to-End-ML-Pipeline
-
 pip install -r requirements.txt
-
 jupyter notebook Alzheimer_Analysis.ipynb
-
 ---
 
 ## 📁 Project Structure
@@ -213,6 +210,6 @@ MIT License — free to use, fork, and build on.
 
 <div align="center">
 
-*Built with curiosity, caffeine, and a genuine belief that ML can matter in medicine.*
+*55 million people live with Alzheimer's. This is one small attempt to help machines understand what that looks like — before it's too late.*
 
 </div>
