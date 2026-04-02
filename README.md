@@ -110,6 +110,7 @@ Seven classifiers evaluated head-to-head under **Stratified 5-Fold Cross-Validat
 | Decision Tree | 70.91% | 70.98% | 0.7164 |
 | Support Vector Machine | 72.50% | 70.69% | 0.6851 |
 | K-Nearest Neighbours | 60.69% | 61.78% | 0.6107 |
+
 ![Model Comparison](model_comparison.png)
 
 ---
