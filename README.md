@@ -176,11 +176,17 @@ scikit-learn · jupyter
 ---
 
 ## 🚀 Getting Started
-
+```bash
+# Clone the repo
 git clone https://github.com/Solivagus17/Alzheimer-s-Disease-Diagnosis-End-to-End-ML-Pipeline.git
 cd Alzheimer-s-Disease-Diagnosis-End-to-End-ML-Pipeline
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Launch the notebook
 jupyter notebook Alzheimer_Analysis.ipynb
+```
 ---
 
 ## 📁 Project Structure
